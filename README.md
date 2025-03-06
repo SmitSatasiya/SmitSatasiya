@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smitsatasiya&show_icons=true&locale=en" alt="smitsatasiya" /></p>
 
-<img align="center" src="https://github-readme-streak-stats.vercel.app/?user=smitsatasiya" alt="GitHub Streak Stats" />
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=smitsatasiya&cache=none)
