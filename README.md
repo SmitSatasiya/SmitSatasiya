@@ -42,23 +42,28 @@
 
 <!-- part 4 -->
 # Github Stats
-<div align="center">
-<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Profile Night Rainbow">
-</div>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SmitSatasiya&theme=github_dark" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SmitSatasiya&theme=github_dark"  />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SmitSatasiya&theme=github_dark"  />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SmitSatasiya&theme=github_dark"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SmitSatasiya&theme=github_dark" />
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; width: 100%; margin-top: 50px;">
-    <img height="180em" style="min-width: 300px;" src="https://github-readme-stats.vercel.app/api?username=SmitSatasiya&theme=midnight-purple">
-    <img height="180em" style="min-width: 300px;" src="https://streak-stats.demolab.com/?user=SmitSatasiya&theme=holi-theme">
-	
-</div>
-</div>
+## 📊 GitHub Stats
 
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SmitSatasiya/SmitSatasiya/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SmitSatasiya&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SmitSatasiya&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SmitSatasiya&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SmitSatasiya&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SmitSatasiya&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SmitSatasiya&theme=midnight-purple" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=SmitSatasiya&theme=github-dark" />
+</p>
+
 <!-- part 4 -->
 
 # Leetcode Stats
